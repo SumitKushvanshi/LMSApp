@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "166605384141",
+    "project_id": "budgetapp-fc8f9",
+    "storage_bucket": "budgetapp-fc8f9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166605384141:android:c0066d33d28de3b09b3c84",
+        "android_client_info": {
+          "package_name": "com.lmsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDprGkTZYZwSZFpWwL24s2e2iSE4197xtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
